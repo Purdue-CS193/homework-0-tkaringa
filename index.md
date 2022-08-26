@@ -1,5 +1,6 @@
-# Tom Karingada's First CS193 Homework
 ```markdown
+# Tom Karingada's First CS193 Homework
+
 Syntax highlighted code block
 
 # Header 1
